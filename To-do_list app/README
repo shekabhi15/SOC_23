@@ -1,0 +1,5 @@
+The functionality of app is to give notifications for desired tasks given by the user
+
+A menu is made using which usre can either add task or display the list of tasks.
+
+User can specify the tasks and time for that. Using notification function from plyer library, users are notified of the tasks.

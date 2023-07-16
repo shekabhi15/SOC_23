@@ -1,7 +1,7 @@
 <h1>Sign Language Recognition</h1>
 
 
-This project focuses on recognizing sign language gestures using computer vision techniques. It consists of three main files: create_data, convert_csv, and model. Each file performs a specific task in the sign language recognition pipeline.
+This project focuses on recognizing sign language gestures using computer vision techniques. It consists of three main files: create_gesture_data, convert_csv, and model. Each file performs a specific task in the sign language recognition pipeline.
 
 <h3>Files</h3>
 1. create_gesture_data.py: 
@@ -38,8 +38,8 @@ To recognize sign language gestures in real-time, you can use the trained model 
 <h3>Dependencies</h3>
 The following dependencies are required to run the project:
 
-Python (3.x)
-OpenCV
-NumPy
-Pandas
-TensorFlow or PyTorch (depending on the chosen library for the CNN model)
+Python,
+OpenCV,
+NumPy,
+Pandas,
+TensorFlow

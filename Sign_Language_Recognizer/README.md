@@ -9,8 +9,8 @@ The create_data.py file is responsible for capturing images from a webcam and st
 
 Utilizes the webcam to capture frames.
 Allows the user to assign labels to different sign language gestures.
-Saves the captured images in separate directories based on their assigned labels.
-2.convert_csv.py</br>The convert_csv.py file converts the collected images into CSV format, representing the pixel values of each image. This step is necessary to preprocess the data and make it suitable for training a Convolutional Neural Network (CNN). The convert_csv.py file performs the following tasks:
+Saves the captured images in separate directories based on their assigned labels.</br>
+2.convert_csv.pyThe convert_csv.py file converts the collected images into CSV format, representing the pixel values of each image. This step is necessary to preprocess the data and make it suitable for training a Convolutional Neural Network (CNN). The convert_csv.py file performs the following tasks:
 
 Reads the images from the previously created directories.
 Converts each image into a grayscale representation.

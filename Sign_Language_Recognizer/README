@@ -1,3 +1,6 @@
+<h1>Sign Language Recognition</h1>
+
+
 This project focuses on recognizing sign language gestures using computer vision techniques. It consists of three main files: create_data, convert_csv, and model. Each file performs a specific task in the sign language recognition pipeline.
 
 Files
